@@ -1,0 +1,30 @@
+.user-container{
+    /* display: flex;
+    align-items: center; */
+    border-bottom: 1px solid rgb(8, 90, 116);
+    border-right: 1px solid rgb(8, 90, 116);
+    padding: 25px;
+    margin-left: 20px;
+}
+.user-details{
+   width: 50%;
+   padding-left: 20px;
+}
+.name{
+    color: rgb(6, 183, 236);
+    font-weight: 600;
+}
+.contact-details{
+    
+}
+.user-img img{
+    height: 180px;
+}
+.user-btn{
+    padding: 10px;
+    background-color: chocolate;
+    cursor: pointer;
+    outline: none;
+    color: white;
+    border: none;
+}
